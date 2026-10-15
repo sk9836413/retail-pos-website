@@ -1,0 +1,6 @@
+# GitHub Pages / Jekyll site for the product website: help, privacy and terms.
+# Change title and description when the brand is final (tools/rebrand.py does this).
+title: Retail POS Pro
+description: LS Central-style retail and restaurant POS for Microsoft Dynamics 365 Business Central online
+theme: jekyll-theme-cayman
+lang: en
