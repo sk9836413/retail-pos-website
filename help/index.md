@@ -31,5 +31,6 @@ permalink: /help/
 
 ## Help
 
+* [Licences](licences)
 * [Troubleshooting and FAQ](troubleshooting)
 * Support: **support@example.com**

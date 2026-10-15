@@ -32,5 +32,6 @@ lang: hi
 
 ## मदद
 
+* [लाइसेंस](licences)
 * [समस्या समाधान और अक्सर पूछे जाने वाले सवाल (FAQ)](troubleshooting)
 * सहायता: **support@example.com**
