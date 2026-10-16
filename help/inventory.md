@@ -7,7 +7,7 @@ permalink: /help/inventory
 
 ## Items
 
-Retail POS Pro uses standard Business Central items, item references (barcodes), sales price lists and units of measure.
+TGS POS uses standard Business Central items, item references (barcodes), sales price lists and units of measure.
 On the item card you also find: POS blocked, zero price allowed, keying in price / quantity, no discount allowed, age limit, recipe item,
 serial / lot tracking, and the picture shown on POS buttons.
 

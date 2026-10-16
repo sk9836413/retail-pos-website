@@ -11,7 +11,7 @@ permalink: /terms
 Last updated: [date]
 
 These terms are an agreement between **[Company legal name]** ("we") and the organisation that installs or uses the
-Retail POS Pro apps for Microsoft Dynamics 365 Business Central ("you").
+TGS POS apps for Microsoft Dynamics 365 Business Central ("you").
 
 ## 1. Licence
 

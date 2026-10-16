@@ -9,7 +9,7 @@ permalink: /privacy
 
 Last updated: [date]
 
-This statement explains how **[Company legal name]** ("we") handles personal data in connection with the Retail POS Pro apps
+This statement explains how **[Company legal name]** ("we") handles personal data in connection with the TGS POS apps
 for Microsoft Dynamics 365 Business Central ("the apps").
 
 ## 1. Who controls the data

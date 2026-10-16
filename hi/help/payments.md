@@ -12,9 +12,9 @@ lang: hi
 
 | प्रदाता | ऐप | टिप्पणी |
 |---|---|---|
-| मैनुअल (Manual) | Retail POS Pro | अलग टर्मिनल; कैशियर स्वीकृति कोड डालता है |
-| सिम्युलेटर (Simulator) | Retail POS Pro | परीक्षण के लिए: सब कुछ स्वीकार करता है, .13 पर खत्म होने वाली राशि अस्वीकार करता है |
-| हार्डवेयर ब्रिज (Hardware Bridge) | Retail POS Pro | POS PC से जुड़े टर्मिनल (बैंक EDC, Ingenico, Verifone, PAX, Paytm ECR) |
+| मैनुअल (Manual) | TGS POS | अलग टर्मिनल; कैशियर स्वीकृति कोड डालता है |
+| सिम्युलेटर (Simulator) | TGS POS | परीक्षण के लिए: सब कुछ स्वीकार करता है, .13 पर खत्म होने वाली राशि अस्वीकार करता है |
+| हार्डवेयर ब्रिज (Hardware Bridge) | TGS POS | POS PC से जुड़े टर्मिनल (बैंक EDC, Ingenico, Verifone, PAX, Paytm ECR) |
 | Pine Labs Plutus Cloud, Razorpay POS (Ezetap), Adyen Terminal API, Stripe Terminal, Square Terminal, SumUp | Payment Terminals | क्लाउड टर्मिनल |
 | सामान्य REST (Generic REST) | Payment Terminals | REST API वाला कोई भी दूसरा क्लाउड टर्मिनल (**सामान्य REST टर्मिनल सेटअप** (Generic REST Terminal Setup)) |
 
@@ -30,7 +30,7 @@ lang: hi
 
 | प्रदाता | ऐप | यह कैसे काम करता है |
 |---|---|---|
-| स्थिर UPI QR (Static UPI QR) | Retail POS Pro | स्टोर की UPI ID (VPA), प्राप्तकर्ता का नाम और सही राशि वाला UPI QR। कैशियर ग्राहक की सफलता स्क्रीन देखकर पुष्टि करता है (लॉग होता है; सुपरवाइज़र की ज़रूरत रखी जा सकती है)। कोई गेटवे शुल्क नहीं। |
+| स्थिर UPI QR (Static UPI QR) | TGS POS | स्टोर की UPI ID (VPA), प्राप्तकर्ता का नाम और सही राशि वाला UPI QR। कैशियर ग्राहक की सफलता स्क्रीन देखकर पुष्टि करता है (लॉग होता है; सुपरवाइज़र की ज़रूरत रखी जा सकती है)। कोई गेटवे शुल्क नहीं। |
 | Razorpay UPI QR | Payment Terminals | Razorpay से डायनामिक QR; ग्राहक के भुगतान करते ही POS अपने-आप पुष्टि करता है |
 | PhonePe Dynamic QR | Payment Terminals | PhonePe से डायनामिक QR; अपने-आप पुष्टि होती है |
 

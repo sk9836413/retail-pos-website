@@ -5,11 +5,11 @@ permalink: /help/india-gst
 
 # India GST, e-invoice and e-way bill
 
-Requires the **Retail POS Pro - India GST** app.
+Requires the **TGS POS - India GST** app.
 
 ## GST on the POS
 
-1. **Retail POS Setup**: switch on **India GST Enabled**. Fill in the CGST, SGST/UTGST, IGST and cess payable accounts, and a
+1. **TGS POS Setup**: switch on **India GST Enabled**. Fill in the CGST, SGST/UTGST, IGST and cess payable accounts, and a
    **VAT Prod. Posting Group with 0%** used on the statement sales documents, so the GST is posted only to the GST accounts.
 2. **GST Groups**: GST % and compensation cess % (for example 5, 12, 18, 28 + cess).
 3. **Items**: GST group and HSN/SAC code.

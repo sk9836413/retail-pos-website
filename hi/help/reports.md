@@ -23,7 +23,7 @@ lang: hi
 
 ## Power BI
 
-Retail POS Pro, Power BI, Excel और Fabric के लिए `knack/retailPosAnalytics/v1.0` के तहत केवल-पढ़ने वाले डेटा फ़ीड देता है:
+TGS POS, Power BI, Excel और Fabric के लिए `knack/retailPosAnalytics/v1.0` के तहत केवल-पढ़ने वाले डेटा फ़ीड देता है:
 `posSalesLines`, `posReceipts`, `posPayments`, `posDiscounts`, `posStores`, `posStaff`।
 
 Power BI Desktop में: **Get Data → Dynamics 365 Business Central**, साइन इन करें, फिर अपना एनवायरनमेंट और कंपनी चुनें,

@@ -6,7 +6,7 @@ lang: hi
 
 # हॉस्पिटैलिटी: टेबल, किचन, QR ऑर्डरिंग और कियोस्क
 
-इसके लिए **Retail POS Pro - Hospitality** ऐप ज़रूरी है।
+इसके लिए **TGS POS - Hospitality** ऐप ज़रूरी है।
 
 ## सेटअप
 

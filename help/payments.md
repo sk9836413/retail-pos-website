@@ -11,9 +11,9 @@ On the **Hardware Profile**, choose the **EFT Provider**:
 
 | Provider | App | Notes |
 |---|---|---|
-| Manual | Retail POS Pro | Stand-alone terminal; the cashier enters the approval code |
-| Simulator | Retail POS Pro | For testing: approves everything, declines amounts ending in .13 |
-| Hardware Bridge | Retail POS Pro | Terminals connected to the POS PC (bank EDC, Ingenico, Verifone, PAX, Paytm ECR) |
+| Manual | TGS POS | Stand-alone terminal; the cashier enters the approval code |
+| Simulator | TGS POS | For testing: approves everything, declines amounts ending in .13 |
+| Hardware Bridge | TGS POS | Terminals connected to the POS PC (bank EDC, Ingenico, Verifone, PAX, Paytm ECR) |
 | Pine Labs Plutus Cloud, Razorpay POS (Ezetap), Adyen Terminal API, Stripe Terminal, Square Terminal, SumUp | Payment Terminals | Cloud terminals |
 | Generic REST | Payment Terminals | Any other cloud terminal with a REST API (**Generic REST Terminal Setup**) |
 
@@ -29,7 +29,7 @@ Create a tender type with the function **QR Payment**. On the hardware profile, 
 
 | Provider | App | How it works |
 |---|---|---|
-| Static UPI QR | Retail POS Pro | A UPI QR with the store's UPI ID (VPA), payee name and the exact amount. The cashier checks the customer's success screen and confirms (logged; can require a supervisor). No gateway fees. |
+| Static UPI QR | TGS POS | A UPI QR with the store's UPI ID (VPA), payee name and the exact amount. The cashier checks the customer's success screen and confirms (logged; can require a supervisor). No gateway fees. |
 | Razorpay UPI QR | Payment Terminals | Dynamic QR from Razorpay; the POS confirms automatically when the customer pays |
 | PhonePe Dynamic QR | Payment Terminals | Dynamic QR from PhonePe; confirmed automatically |
 

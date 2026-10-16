@@ -6,11 +6,11 @@ lang: hi
 
 # भारत GST, ई-इनवॉइस और ई-वे बिल
 
-इसके लिए **Retail POS Pro - India GST** ऐप ज़रूरी है।
+इसके लिए **TGS POS - India GST** ऐप ज़रूरी है।
 
 ## POS पर GST
 
-1. **रिटेल POS सेटअप** (Retail POS Setup): **भारत GST चालू** (India GST Enabled) चालू करें। CGST, SGST/UTGST, IGST और सेस देय खाते भरें, और एक
+1. **रिटेल POS सेटअप** (TGS POS Setup): **भारत GST चालू** (India GST Enabled) चालू करें। CGST, SGST/UTGST, IGST और सेस देय खाते भरें, और एक
    **0% वाला VAT उत्पाद पोस्टिंग समूह** (VAT Prod. Posting Group with 0%) जो स्टेटमेंट बिक्री दस्तावेज़ों पर उपयोग होता है, ताकि GST केवल GST खातों में पोस्ट हो।
 2. **GST समूह** (GST Groups): GST % और क्षतिपूर्ति सेस % (उदाहरण के लिए 5, 12, 18, 28 + सेस)।
 3. **आइटम** (Items): GST समूह और HSN/SAC कोड।

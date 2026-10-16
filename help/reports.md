@@ -22,7 +22,7 @@ India GST reports are described in [India GST](india-gst).
 
 ## Power BI
 
-Retail POS Pro publishes read-only data feeds for Power BI, Excel and Fabric under `knack/retailPosAnalytics/v1.0`:
+TGS POS publishes read-only data feeds for Power BI, Excel and Fabric under `knack/retailPosAnalytics/v1.0`:
 `posSalesLines`, `posReceipts`, `posPayments`, `posDiscounts`, `posStores`, `posStaff`.
 
 In Power BI Desktop: **Get Data → Dynamics 365 Business Central**, sign in, then choose your environment and company,

@@ -6,7 +6,7 @@ lang: hi
 
 # लाइसेंस
 
-Retail POS Pro और इसके add-on ऐप Microsoft AppSource से प्रति यूज़र बिकते हैं। Microsoft आपकी बाकी Microsoft सदस्यताओं के साथ हर महीने या हर साल बिल करता है।
+TGS POS और इसके add-on ऐप Microsoft AppSource से प्रति यूज़र बिकते हैं। Microsoft आपकी बाकी Microsoft सदस्यताओं के साथ हर महीने या हर साल बिल करता है।
 
 ## किसे लाइसेंस चाहिए
 

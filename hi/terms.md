@@ -12,7 +12,7 @@ lang: hi
 अंतिम अपडेट: [date]
 
 ये शर्तें **[Company legal name]** ("हम") और उस संगठन ("आप") के बीच एक समझौता हैं जो Microsoft Dynamics 365 Business Central के लिए
-Retail POS Pro ऐप इंस्टॉल या उपयोग करता है।
+TGS POS ऐप इंस्टॉल या उपयोग करता है।
 
 ## 1. लाइसेंस
 

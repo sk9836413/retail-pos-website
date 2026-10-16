@@ -5,9 +5,9 @@ permalink: /help/setup
 
 # Stores, terminals, staff and profiles
 
-All setup pages are on the **Retail Manager (POS)** role center and under **Retail POS Setup**.
+All setup pages are on the **Retail Manager (POS)** role center and under **TGS POS Setup**.
 
-## Retail POS Setup
+## TGS POS Setup
 
 Number series, posting accounts (gift card and voucher liability, deposits, rounding, differences, float), gift card validity,
 replenishment defaults and **embedded barcodes** (scale / price labels).

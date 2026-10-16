@@ -42,4 +42,4 @@ A coupon with *Issue on Purchase Over* is a **template**: the POS prints a perso
 
 * Sell a gift card with **Gift Card Sale** (new card or top-up). It is a liability until it is used.
 * Pay with the gift card tender. **Gift Card Balance** checks the balance.
-* Refunds can go to a **credit voucher**. Validity periods are in **Retail POS Setup**.
+* Refunds can go to a **credit voucher**. Validity periods are in **TGS POS Setup**.

@@ -5,7 +5,7 @@ permalink: /help/ecommerce
 
 # Web stores and Swiggy / Zomato
 
-Requires the **Retail POS Pro - E-Commerce** app.
+Requires the **TGS POS - E-Commerce** app.
 
 ## Web stores (Shopify, WooCommerce, Magento 2, BigCommerce)
 

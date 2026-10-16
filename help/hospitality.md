@@ -5,7 +5,7 @@ permalink: /help/hospitality
 
 # Hospitality: tables, kitchen, QR ordering and kiosk
 
-Requires the **Retail POS Pro - Hospitality** app.
+Requires the **TGS POS - Hospitality** app.
 
 ## Set up
 

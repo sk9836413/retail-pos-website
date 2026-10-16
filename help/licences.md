@@ -5,7 +5,7 @@ permalink: /help/licences
 
 # Licences
 
-Retail POS Pro and its add-on apps are sold per user through Microsoft AppSource. Microsoft bills you monthly or yearly with your other Microsoft subscriptions.
+TGS POS and its add-on apps are sold per user through Microsoft AppSource. Microsoft bills you monthly or yearly with your other Microsoft subscriptions.
 
 ## Who needs a licence
 

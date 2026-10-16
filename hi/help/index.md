@@ -4,7 +4,7 @@ permalink: /hi/help/
 lang: hi
 ---
 
-# Retail POS Pro मदद
+# TGS POS मदद
 
 [English](../../help/)
 

@@ -10,7 +10,7 @@ lang: hi
 
 अंतिम अपडेट: [date]
 
-यह विवरण बताता है कि **[Company legal name]** ("हम") Microsoft Dynamics 365 Business Central के लिए Retail POS Pro ऐप ("ऐप")
+यह विवरण बताता है कि **[Company legal name]** ("हम") Microsoft Dynamics 365 Business Central के लिए TGS POS ऐप ("ऐप")
 के संबंध में निजी डेटा को कैसे संभालता है।
 
 ## 1. डेटा का नियंत्रण किसके पास है

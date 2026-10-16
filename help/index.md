@@ -3,7 +3,7 @@ title: Help
 permalink: /help/
 ---
 
-# Retail POS Pro help
+# TGS POS help
 
 [हिन्दी](../hi/help/)
 

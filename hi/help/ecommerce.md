@@ -6,7 +6,7 @@ lang: hi
 
 # वेब स्टोर और Swiggy / Zomato
 
-इसके लिए **Retail POS Pro - E-Commerce** ऐप ज़रूरी है।
+इसके लिए **TGS POS - E-Commerce** ऐप ज़रूरी है।
 
 ## वेब स्टोर (Shopify, WooCommerce, Magento 2, BigCommerce)
 
