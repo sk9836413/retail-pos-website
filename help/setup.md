@@ -21,6 +21,14 @@ One card per shop or outlet: address, **Location Code**, **Cash (Walk-in) Custom
 **Max. Statement Difference**, cash rounding, member club, service charge, tip and delivery fee codes, receipt layout,
 **Receipt Language** (blank = English; most thermal printers can only print Latin characters), safe and bank account.
 
+## More stores
+
+On the **Stores** list choose **New Store (copy settings)**: enter the new store number and name, a new or existing location and the number of
+its first POS terminal. Profiles, POS menu, walk-in customer, price group, loyalty club, dimensions and receipt texts are copied from the store you choose.
+**Setup Check** then shows if anything is still missing for the new store.
+
+A POS terminal can only be open in one browser window at a time; the POS remembers the terminal each user chose.
+
 ## Store groups
 
 **Store Groups** collect stores (for example *North region* or *Malls*). Use them on offers, POS messages and **Store Group Assortment Blocks**
@@ -46,10 +54,12 @@ UPI / QR payment provider, and the Hardware Bridge devices. See [Hardware](hardw
 
 ## Staff and permission groups
 
-**Staff**: ID, name, store, permission group, commission %. Set the password with **Set POS Password** (passwords are stored as salted hashes).
+**Staff**: ID, name, store, permission group, commission %. Set the password with **Set POS Password** (passwords are stored as salted hashes);
+the **Password Set** column shows who can't log on yet. After 5 wrong passwords a staff member is locked until a new password is set.
 
 **Permission Groups** decide what staff may do: void line or transaction, price override, line and total discount (with max. %), returns,
-open drawer, X / Z report, tender declaration, float / remove tender, training mode, suspend / recall, reprint, inventory adjustment.
+open drawer, X / Z report, tender declaration, float / remove tender, training mode, suspend / recall, reprint, inventory adjustment,
+credit limit override (sales on account above the customer's credit limit).
 *Manager Privileges* lets the group approve actions for others.
 
 ## Tender types

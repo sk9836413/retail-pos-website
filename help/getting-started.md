@@ -14,7 +14,16 @@ permalink: /help/getting-started
 3. Give users the permission sets: **RPOS ALL** (Retail POS Pro) plus **RPOS HOSP ALL**, **RPOS INDIA ALL**, **RPOS PAY ALL** or
    **RPOS COMM ALL** for the add-ons. Choose the **Retail Manager (POS)** role for back-office users.
 
-## 2. Create the demo setup
+## 2. Run the setup wizard
+
+Search for **Set up Retail POS** (or open **Assisted Setup**, or **Retail POS Setup → Setup Wizard**). In six short steps it asks for:
+the kind of business (retail shop, restaurant, quick service / kiosk), the store name and location, the walk-in customer (or creates one),
+the accounts for cash, card / UPI, gift cards, vouchers, deposits, rounding and differences, your UPI ID (for a UPI QR with the exact amount),
+and the manager and cashier logins. It also assigns the POS terminal to your user and schedules the POS jobs.
+
+Afterwards **Setup Check** (also on Retail POS Setup and the store list) lists anything still missing, with a **Fix** button that opens the right page.
+
+### Or: demo data only
 
 1. Search for **Retail POS Setup**.
 2. Choose **Create Default Setup & Demo Data**.
@@ -47,7 +56,7 @@ Change these passwords (**Staff → Set POS Password**) before going live.
 
 ## 5. Daily jobs
 
-Open **Job Queue Entries**, create an entry for **codeunit 50116 RPOS Scheduled Jobs**, recurring every 15–60 minutes. It runs:
+The wizard schedules them. Otherwise choose **Schedule POS Jobs** in **Retail POS Setup** (every 30 minutes). They run:
 points expiry, member tier changes, web store sync, e-invoice retries and automatic statement posting (if switched on).
 
 ## 6. Go-live checklist
