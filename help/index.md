@@ -29,6 +29,10 @@ permalink: /help/
 * [Card terminals and UPI QR](payments)
 * [Web stores and Swiggy / Zomato](ecommerce)
 
+## Moving to Business Central
+
+* [Move from Tally (TallyPrime, Tally.ERP 9)](tally-migration)
+
 ## Help
 
 * [Licences](licences)

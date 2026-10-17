@@ -30,6 +30,10 @@ lang: hi
 * [कार्ड टर्मिनल और UPI QR](payments)
 * [वेब स्टोर और Swiggy / Zomato](ecommerce)
 
+## Business Central पर आना
+
+* [Tally से आएँ (TallyPrime, Tally.ERP 9)](tally-migration)
+
 ## मदद
 
 * [लाइसेंस](licences)
