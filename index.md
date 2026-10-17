@@ -27,4 +27,4 @@ The Hardware Bridge (a free Windows helper for receipt printers, cash drawers, s
 * [Help and setup guide](help/)
 * [Privacy statement](privacy)
 * [Terms of use](terms)
-* Support: **support@example.com**
+* [Support](support): **support@example.com**
