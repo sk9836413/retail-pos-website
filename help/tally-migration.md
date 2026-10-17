@@ -26,7 +26,27 @@ HSN/SAC and GST group are filled in as well.
 Want to try it first? Download the sample company **Sharma Traders**: [masters](../samples/tally-masters-sample.xml) and
 [day book](../samples/tally-daybook-sample.xml) (go-live 1 May 2024, books begin 1 April 2024).
 
-## 1. Export from Tally
+## 1a. Direct connection (no export files)
+
+Use this on a PC where Tally runs, or any PC in the same office network as the Tally PC / Tally server.
+
+1. Install the free **TGS Hardware Bridge** on that PC (the same small program the POS uses for printers; version 1.1 or later).
+2. In Tally, load the company and switch on the XML server: TallyPrime **F1 (Help) > Settings > Connectivity > Client/Server configuration**,
+   *TallyPrime acts as* **Server** (or **Both**), port **9000**. In Tally.ERP 9: **F12 > Advanced Configuration**, *Tally is acting as* **Both**.
+3. In Business Central open the migration and choose **1. Fetch from Tally (direct)**.
+4. **Tally Computer**: *localhost* for this PC, or the name / IP address of the Tally PC in your network. Port 9000. Bridge URL and token as for the POS.
+5. **Connect**: the companies open in Tally are listed; choose one. The books begin date is read from Tally.
+6. Enter the **Go-Live Date** and choose **Fetch from Tally**. The app reads, one after the other:
+   * all masters (like *List of Accounts*);
+   * the day book month by month, from the books begin date to the day before go-live;
+   * Tally's own **closing balances** and **closing stock** on the day before go-live.
+7. The balances are calculated straight away. With **Use Tally's Closing Balances** on (set automatically when Tally sent them) the
+   ledger balances and stock values are exactly Tally's; the check lists every ledger where the day book gives a different figure.
+
+The bridge only talks to this PC and computers in your own network (10.x, 172.16–31.x, 192.168.x, computer names), never to the internet.
+Big companies: the day book is read month by month; a month above 60 MB stops with a message.
+
+## 1b. Or: export from Tally
 
 Use **XML (Data Interchange)** as the format. Unicode and ASCII both work.
 
